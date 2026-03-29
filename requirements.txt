@@ -11,3 +11,4 @@ pyjwt
 pytz
 urllib3
 cryptography
+protobuf_decoder
