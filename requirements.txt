@@ -1,0 +1,13 @@
+# requirements.txt
+aiohttp
+protobuf
+google
+pycryptodome
+cfonts
+flask
+requests
+psutil
+pyjwt
+pytz
+urllib3
+cryptography
